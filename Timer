@@ -1,0 +1,211 @@
+@echo off
+mode 50,8
+title Heat Timer
+:loop
+color 57
+timeout /t 3 /nobreak
+title Heat Timer
+echo                xxxxxxxxxxxxxxxx
+echo                x  Check HEAT  x 
+echo                xxxxxxxxxxxxxxxx
+echo 
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+Ping localhost 1 >nul
+color 57
+Ping localhost 1 >nul
+color 75
+timeout /t 20
+cls
+goto loop
